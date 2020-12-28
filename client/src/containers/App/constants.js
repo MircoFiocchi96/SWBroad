@@ -1,0 +1,9 @@
+export const INITIATE_WS_CONNECTION = 'client/App/INITIATE_WS_CONNECTION';
+export const WS_CONNECTED = 'client/App/WS_CONNECTED';
+export const SEND_BY_WS = 'client/App/SEND_BY_WS';
+export const ADD_VIEWER = 'client/App/ADD_VIEWER';
+export const VIEWER_CONNECTED = 'client/App/VIEWER_CONNECTED';
+export const VIEWER_DISCONNECTED = 'client/App/VIEWER_DISCONNECTED';
+export const HOST_CONNECTED = 'client/App/HOST_CONNECTED';
+export const HOST_DISCONNECTED = 'client/App/HOST_DISCONNECTED';
+export const VIEWER_DISCONNECT = 'client/App/VIEWER_DISCONNECT';
